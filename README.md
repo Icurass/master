@@ -1,5 +1,0 @@
-# master
-testing
-
-must test
-
