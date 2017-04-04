@@ -8,7 +8,7 @@ public class GameController extends Application {
 		launch(args);
 	}
 	
-	poublic void start(Stage stage) {
+	public void start(Stage stage) {
 		stage.setTitle("testing 123")
 		stage.
 		

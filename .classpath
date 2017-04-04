@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="src/Spillprosjekt/" kind="src" path=""/>
-	<classpathentry kind="src" path="src/Spillprosjekt"/>
+	<classpathentry excluding="src/Spillprosjekt/|src/Spillprosjekt/Spillprosjekt/" kind="src" path=""/>
+	<classpathentry excluding="Spillprosjekt/" kind="src" path="src/Spillprosjekt"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
