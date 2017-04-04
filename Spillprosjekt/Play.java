@@ -1,3 +1,3 @@
-package Spillprosjekt;
+package spillprosjekt;
 
 
