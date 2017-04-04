@@ -3,7 +3,7 @@ package spillprosjekt;
 
 <<<<<<< HEAD
 =======
-// Eksempel på spillkonsoll
+// Eksempel på spillkonsoll 
 //import java.io.IOException;
 //
 //import javafx.fxml.FXML;
