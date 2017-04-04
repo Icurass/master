@@ -1,4 +1,4 @@
-package Spillprosjekt;
+package spillprosjekt;
 
 
 import java.io.IOException;
